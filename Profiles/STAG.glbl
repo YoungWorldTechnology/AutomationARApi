@@ -14,4 +14,14 @@
       <initValue>'https://be-import-staging.alireviews.dev'</initValue>
       <name>base_url_import</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'huynh-ar-newwidget-stag-daily-1002.myshopify.com'</initValue>
+      <name>shop</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>authorization</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
