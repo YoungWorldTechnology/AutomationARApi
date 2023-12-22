@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+shop,,,,21-12-2023 17:18:35,21-12-2023 17:18:37,1.630s,PASSED
+,,,,,,,
+Test Cases/AR BE/Shop Info,,,,21-12-2023 17:18:35,21-12-2023 17:18:37,1.528s,PASSED
+"response = sendRequest(findTestObject(""AR BE/Auth"", [""shop"":shop]))",,,,21-12-2023 17:18:35,21-12-2023 17:18:36,1.168s,PASSED
+parse = new groovy.json.JsonSlurper(),,,,21-12-2023 17:18:36,21-12-2023 17:18:36,0.008s,PASSED
+after_response = parse.parseText(response.getResponseBodyContent()),,,,21-12-2023 17:18:36,21-12-2023 17:18:36,0.017s,PASSED
+"authorization = ""Bearer "" + token",,,,21-12-2023 17:18:36,21-12-2023 17:18:36,0.009s,PASSED
+"response = sendRequest(findTestObject(""AR BE/Shop Info"", [""authorization"":authorization]))",,,,21-12-2023 17:18:36,21-12-2023 17:18:37,0.131s,PASSED
+after_response = parse.parseText(response.getResponseBodyContent()),,,,21-12-2023 17:18:37,21-12-2023 17:18:37,0.002s,PASSED
+logInfo(shop_name),,,,21-12-2023 17:18:37,21-12-2023 17:18:37,0.006s,PASSED
+"verifyResponseStatusCode(response, 200)",,,,21-12-2023 17:18:37,21-12-2023 17:18:37,0.012s,PASSED

@@ -5,4 +5,26 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>abe422dc-0565-4597-8835-078ae25d5cbf</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>e7e05c6b-2a83-411c-84a1-2db72a998b06</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/STAG/STAGDatabase</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>e7e05c6b-2a83-411c-84a1-2db72a998b06</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>raw_domain</value>
+      <variableId>d0eb047b-926c-4ac1-804a-9346c6c795b6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d0eb047b-926c-4ac1-804a-9346c6c795b6</id>
+      <masked>false</masked>
+      <name>raw_domain</name>
+   </variable>
 </TestCaseEntity>
