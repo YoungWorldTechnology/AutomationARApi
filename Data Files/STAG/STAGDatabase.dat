@@ -12,7 +12,7 @@
    <driverClassName></driverClassName>
    <isInternalPath>false</isInternalPath>
    <password></password>
-   <query>select * from shop</query>
+   <query>select * from api_object_detail</query>
    <secureUserAccount>false</secureUserAccount>
    <sheetName></sheetName>
    <user></user>

@@ -22,7 +22,8 @@ import java.sql.Connection
 import java.sql.ResultSet
 import com.kms.katalon.core.configuration.RunConfiguration
 import com.katalon.plugin.keyword.connection.DBType
-//doc: https://github.com/rosiecorn/katalon-dbms-plugin-usage
+// doc: https://github.com/rosiecorn/katalon-dbms-plugin-usage
+// https://jsonformatter.org/json-to-jsonschema
 globalConnection = CustomKeywords.'com.katalon.plugin.keyword.connection.DatabaseKeywords.getGlobalConnection'()
 globalConnection.setReadOnly(false);
 actorData = CustomKeywords.'com.katalon.plugin.keyword.connection.DatabaseKeywords.executeQuery'(globalConnection, "SELECT * FROM shop")

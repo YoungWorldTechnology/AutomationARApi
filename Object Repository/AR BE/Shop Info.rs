@@ -34,7 +34,7 @@
    <socketTimeout>0</socketTimeout>
    <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
    <variables>
-      <defaultValue>'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkZXN0IjoiaHR0cHM6XC9cL2h1eW5oLWFyLW5ld3dpZGdldC1zdGFnLWRhaWx5LTEwMDIubXlzaG9waWZ5LmNvbSIsImlhdCI6MTcwMzE1MTAzNCwiZXhwIjoxNzAzMTU0NjM0fQ.7_8jS-2oUu11360uwIrkr9aZlJ73odGN_no70E8pFIk\r\n'</defaultValue>
+      <defaultValue>'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkZXN0IjoiaHR0cHM6XC9cL2h1eW5oLWFyLW5ld3dpZGdldC1zdGFnLWRhaWx5LTEwMDIubXlzaG9waWZ5LmNvbSIsImlhdCI6MTcwMzIyOTczMSwiZXhwIjoxNzAzMjMzMzMxfQ.AgK50PL7sfHBE3tVcYpMdz7fLYu8MsxoxBKvLULfAL0'</defaultValue>
       <description></description>
       <id>59d1be86-72f2-4da8-a74c-dc57161c6c52</id>
       <masked>false</masked>

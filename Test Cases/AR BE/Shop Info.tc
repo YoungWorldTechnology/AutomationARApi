@@ -9,8 +9,8 @@
       <combinationType>ONE</combinationType>
       <id>e7e05c6b-2a83-411c-84a1-2db72a998b06</id>
       <iterationEntity>
-         <iterationType>ALL</iterationType>
-         <value></value>
+         <iterationType>SPECIFIC</iterationType>
+         <value>2</value>
       </iterationEntity>
       <testDataId>Data Files/STAG/STAGDatabase</testDataId>
    </testDataLinks>
@@ -20,11 +20,89 @@
       <value>raw_domain</value>
       <variableId>d0eb047b-926c-4ac1-804a-9346c6c795b6</variableId>
    </variableLinks>
+   <variableLinks>
+      <testDataLinkId>e7e05c6b-2a83-411c-84a1-2db72a998b06</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>object_repo</value>
+      <variableId>d3e775ce-bb60-4c8e-9cf9-f11ef5b63979</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>e7e05c6b-2a83-411c-84a1-2db72a998b06</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>response_status</value>
+      <variableId>95b87eee-84b7-459b-a4a4-b984e37d90d8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>e7e05c6b-2a83-411c-84a1-2db72a998b06</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>response_schema</value>
+      <variableId>a04c4ee8-97ee-4ec0-a482-94aebd1e33a9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>abec8159-f611-4db7-af29-1f3288195bdb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ff35fb45-6ef6-4441-bafb-161339a4b609</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4929886b-72e9-4e00-9eaf-2d754fa2c45d</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
       <id>d0eb047b-926c-4ac1-804a-9346c6c795b6</id>
       <masked>false</masked>
       <name>raw_domain</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d3e775ce-bb60-4c8e-9cf9-f11ef5b63979</id>
+      <masked>false</masked>
+      <name>object_repo</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>95b87eee-84b7-459b-a4a4-b984e37d90d8</id>
+      <masked>false</masked>
+      <name>response_status</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a04c4ee8-97ee-4ec0-a482-94aebd1e33a9</id>
+      <masked>false</masked>
+      <name>response_schema</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>abec8159-f611-4db7-af29-1f3288195bdb</id>
+      <masked>false</masked>
+      <name>is_valid_response_schema</name>
+   </variable>
+   <variable>
+      <defaultValue>'{\r\n    \r\n    &quot;data.promoCodeErrorMessage&quot;:&quot;promo_code_is_expired&quot;,\r\n    &quot;data.isCharged&quot;:true,\r\n    &quot;data.trialStatus&quot;:&quot;end&quot;,\r\n    &quot;data.showPausePlanSection&quot;:false,\r\n    &quot;data.isFreePlanStore&quot;:false,\r\n    &quot;data.appPlan&quot;:&quot;starter&quot;,\r\n    &quot;data.pricePlan&quot;:&quot;$118.8&quot;,\r\n    &quot;data.isDiscounted&quot;:true,\r\n    &quot;data.actualPrice&quot;:&quot;$83.16&quot;,\r\n    &quot;data.showDiscountPromtionCode&quot;:false,\r\n    &quot;data.isShowDiscountPricing&quot;:false,\r\n    &quot;data.trialDiscountStatus&quot;:&quot;end&quot;,\r\n    &quot;data.isApplyOneUsd&quot;:false,\r\n    &quot;data.billingInterval&quot;:&quot;yearly&quot;,\r\n    &quot;data.isForceYearlPricing&quot;:false,\r\n    &quot;data.endCurrentCycle&quot;:null,\r\n    &quot;data.startCurrentCycle&quot;:null,\r\n    &quot;data.preventDownplan&quot;:true\r\n  }'</defaultValue>
+      <description></description>
+      <id>ff35fb45-6ef6-4441-bafb-161339a4b609</id>
+      <masked>false</masked>
+      <name>response_valid</name>
+   </variable>
+   <variable>
+      <defaultValue>0</defaultValue>
+      <description></description>
+      <id>4929886b-72e9-4e00-9eaf-2d754fa2c45d</id>
+      <masked>false</masked>
+      <name>is_response_valid</name>
    </variable>
 </TestCaseEntity>

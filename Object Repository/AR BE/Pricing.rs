@@ -7,7 +7,7 @@
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <autoUpdateContent>true</autoUpdateContent>
-   <connectionTimeout>-1</connectionTimeout>
+   <connectionTimeout>0</connectionTimeout>
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent></httpBodyContent>
@@ -21,7 +21,7 @@
       <webElementGuid>654f45aa-5abc-4bae-9b90-eaf41566c826</webElementGuid>
    </httpHeaderProperties>
    <katalonVersion>9.1.0</katalonVersion>
-   <maxResponseSize>-1</maxResponseSize>
+   <maxResponseSize>0</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>GET</restRequestMethod>
    <restUrl>${GlobalVariable.base_url}/api/v7/pricing/info</restUrl>
@@ -31,10 +31,10 @@
    <soapRequestMethod></soapRequestMethod>
    <soapServiceEndpoint></soapServiceEndpoint>
    <soapServiceFunction></soapServiceFunction>
-   <socketTimeout>-1</socketTimeout>
+   <socketTimeout>0</socketTimeout>
    <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
    <variables>
-      <defaultValue>'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkZXN0IjoiaHR0cHM6XC9cL2h1eW5oLWFyLW5ld3dpZGdldC1zdGFnLWRhaWx5LTEwMDIubXlzaG9waWZ5LmNvbSIsImlhdCI6MTcwMzE1MTAzNCwiZXhwIjoxNzAzMTU0NjM0fQ.7_8jS-2oUu11360uwIrkr9aZlJ73odGN_no70E8pFIk\r\n'</defaultValue>
+      <defaultValue>'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkZXN0IjoiaHR0cHM6XC9cL2h1eW5oLWFyLW5ld3dpZGdldC1zdGFnLWRhaWx5LTEwMDMubXlzaG9waWZ5LmNvbSIsImlhdCI6MTcwMzIzMDY4NSwiZXhwIjoxNzAzMjM0Mjg1fQ.y4-b77G7w1q-QnWfklmwKKk9Juf7M6nCRLN92doZEJs'</defaultValue>
       <description></description>
       <id>4ea9830b-1c8c-4261-af2c-47356b1d33a4</id>
       <masked>false</masked>

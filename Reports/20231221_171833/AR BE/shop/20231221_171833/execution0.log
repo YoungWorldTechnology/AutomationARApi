@@ -539,3 +539,146 @@
   <escapedJava>false</escapedJava>
 </record>
 </log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-12-22T07:40:20.073268500Z</date>
+  <millis>1703230820073</millis>
+  <nanos>268500</nanos>
+  <sequence>838</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:40.079773300Z</date>
+  <millis>1703230840079</millis>
+  <nanos>773300</nanos>
+  <sequence>839</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1637</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-22T07:51:20.374316Z</date>
+  <millis>1703231480374</millis>
+  <nanos>316000</nanos>
+  <sequence>1143</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-22T07:53:09.672102600Z</date>
+  <millis>1703231589672</millis>
+  <nanos>102600</nanos>
+  <sequence>1187</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-22T07:57:44.355111300Z</date>
+  <millis>1703231864355</millis>
+  <nanos>111300</nanos>
+  <sequence>1234</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-22T08:00:03.713630800Z</date>
+  <millis>1703232003713</millis>
+  <nanos>630800</nanos>
+  <sequence>1284</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-22T08:01:00.900364100Z</date>
+  <millis>1703232060900</millis>
+  <nanos>364100</nanos>
+  <sequence>1336</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-22T08:01:34.484109Z</date>
+  <millis>1703232094484</millis>
+  <nanos>109000</nanos>
+  <sequence>1383</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-22T08:02:21.494729100Z</date>
+  <millis>1703232141494</millis>
+  <nanos>729100</nanos>
+  <sequence>1450</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-22T08:04:50.806439200Z</date>
+  <millis>1703232290806</millis>
+  <nanos>439200</nanos>
+  <sequence>1497</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
