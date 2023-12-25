@@ -682,3 +682,801 @@
   <escapedJava>false</escapedJava>
   <property name="dbServerInfo">MySQL 8.2.0</property>
 </record>
+<record>
+  <date>2023-12-25T02:45:31.531751200Z</date>
+  <millis>1703472331531</millis>
+  <nanos>751200</nanos>
+  <sequence>2197</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T03:22:33.062381700Z</date>
+  <millis>1703474553062</millis>
+  <nanos>381700</nanos>
+  <sequence>2245</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>3258</thread>
+  <message>HAR: C:\Users\huynh\AppData\Local\Temp\har6152242892379540486\requests\ModalContext\5.har</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">589a297b-ae31-4c7c-953d-0fd2240d971b</property>
+</record>
+<record>
+  <date>2023-12-25T03:22:50.458476Z</date>
+  <millis>1703474570458</millis>
+  <nanos>476000</nanos>
+  <sequence>2246</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>3264</thread>
+  <message>HAR: C:\Users\huynh\AppData\Local\Temp\har9589326787946353512\requests\ModalContext\6.har</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">18b3f4fa-1826-4e7b-84fe-4d2209bb2d52</property>
+</record>
+<record>
+  <date>2023-12-25T03:23:09.392248500Z</date>
+  <millis>1703474589392</millis>
+  <nanos>248500</nanos>
+  <sequence>2247</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>3276</thread>
+  <message>HAR: C:\Users\huynh\AppData\Local\Temp\har12456955028332104008\requests\ModalContext\7.har</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">b7a8ae54-cd75-46b3-8ce4-0c3f81856ff0</property>
+</record>
+<record>
+  <date>2023-12-25T03:27:04.017300Z</date>
+  <millis>1703474824017</millis>
+  <nanos>300000</nanos>
+  <sequence>2248</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>3281</thread>
+  <message>HAR: C:\Users\huynh\AppData\Local\Temp\har16777082311736324076\requests\ModalContext\8.har</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">65f2f7b6-05dd-4652-b1fc-f2ec70d39067</property>
+</record>
+<record>
+  <date>2023-12-25T03:29:33.087372900Z</date>
+  <millis>1703474973087</millis>
+  <nanos>372900</nanos>
+  <sequence>2249</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>3315</thread>
+  <message>HAR: C:\Users\huynh\AppData\Local\Temp\har3735710432841263597\requests\ModalContext\9.har</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">ad378ce9-3422-436d-856f-4a114b90b7b1</property>
+</record>
+<record>
+  <date>2023-12-25T03:29:50.650305Z</date>
+  <millis>1703474990650</millis>
+  <nanos>305000</nanos>
+  <sequence>2250</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>3326</thread>
+  <message>HAR: C:\Users\huynh\AppData\Local\Temp\har14343344711519906697\requests\ModalContext\10.har</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">0ea2b34d-9007-4be6-826b-eb083c28f9b1</property>
+</record>
+<record>
+  <date>2023-12-25T03:30:08.481638300Z</date>
+  <millis>1703475008481</millis>
+  <nanos>638300</nanos>
+  <sequence>2251</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>3352</thread>
+  <message>HAR: C:\Users\huynh\AppData\Local\Temp\har10958358083718963791\requests\ModalContext\11.har</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">47acb159-6316-4bf4-8981-0ba181f28c30</property>
+</record>
+<record>
+  <date>2023-12-25T03:40:46.117566900Z</date>
+  <millis>1703475646117</millis>
+  <nanos>566900</nanos>
+  <sequence>2252</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T03:41:04.551817600Z</date>
+  <millis>1703475664551</millis>
+  <nanos>817600</nanos>
+  <sequence>2253</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T03:41:57.634086400Z</date>
+  <millis>1703475717634</millis>
+  <nanos>86400</nanos>
+  <sequence>2254</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T03:44:17.992891400Z</date>
+  <millis>1703475857992</millis>
+  <nanos>891400</nanos>
+  <sequence>2262</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T03:45:19.458249600Z</date>
+  <millis>1703475919458</millis>
+  <nanos>249600</nanos>
+  <sequence>2292</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T03:45:59.014085900Z</date>
+  <millis>1703475959014</millis>
+  <nanos>85900</nanos>
+  <sequence>2327</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T03:46:39.581970800Z</date>
+  <millis>1703475999581</millis>
+  <nanos>970800</nanos>
+  <sequence>2328</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T03:53:18.101754800Z</date>
+  <millis>1703476398101</millis>
+  <nanos>754800</nanos>
+  <sequence>2368</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>3763</thread>
+  <message>HAR: C:\Users\huynh\AppData\Local\Temp\har11056731704468360989\requests\ModalContext\12.har</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">3cb685c7-b949-43c1-ba83-ce661b2508de</property>
+</record>
+<record>
+  <date>2023-12-25T03:53:50.010178200Z</date>
+  <millis>1703476430010</millis>
+  <nanos>178200</nanos>
+  <sequence>2369</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>3771</thread>
+  <message>HAR: C:\Users\huynh\AppData\Local\Temp\har6305157316525422278\requests\ModalContext\13.har</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">d35e8f14-a80b-465b-9e6e-16beb092ae9c</property>
+</record>
+<record>
+  <date>2023-12-25T03:56:00.496522900Z</date>
+  <millis>1703476560496</millis>
+  <nanos>522900</nanos>
+  <sequence>2370</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T03:58:04.317898Z</date>
+  <millis>1703476684317</millis>
+  <nanos>898000</nanos>
+  <sequence>2371</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T04:25:20.101624300Z</date>
+  <millis>1703478320101</millis>
+  <nanos>624300</nanos>
+  <sequence>2412</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>4029</thread>
+  <message>HAR: C:\Users\huynh\AppData\Local\Temp\har6183559037105514686\requests\ModalContext\14.har</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">5e2cf9d0-8cfa-49b2-84fd-6a64fb819316</property>
+</record>
+<record>
+  <date>2023-12-25T04:26:35.478792900Z</date>
+  <millis>1703478395478</millis>
+  <nanos>792900</nanos>
+  <sequence>2413</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>4032</thread>
+  <message>HAR: C:\Users\huynh\AppData\Local\Temp\har6966311689080242109\requests\ModalContext\15.har</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">8bf67611-458e-4e2c-9631-9098e49b47ee</property>
+</record>
+<record>
+  <date>2023-12-25T04:27:52.793939100Z</date>
+  <millis>1703478472793</millis>
+  <nanos>939100</nanos>
+  <sequence>2414</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>4040</thread>
+  <message>HAR: C:\Users\huynh\AppData\Local\Temp\har7725055231320936611\requests\ModalContext\16.har</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">a3a4adf7-f5e2-4e8b-bca8-0dbb5c5e53f5</property>
+</record>
+<record>
+  <date>2023-12-25T04:28:06.281555600Z</date>
+  <millis>1703478486281</millis>
+  <nanos>555600</nanos>
+  <sequence>2415</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>4065</thread>
+  <message>HAR: C:\Users\huynh\AppData\Local\Temp\har4653187638038490565\requests\ModalContext\17.har</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">3c8f3c48-3866-4b06-aa2d-bc939badbc65</property>
+</record>
+<record>
+  <date>2023-12-25T04:28:30.163386800Z</date>
+  <millis>1703478510163</millis>
+  <nanos>386800</nanos>
+  <sequence>2416</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>4084</thread>
+  <message>HAR: C:\Users\huynh\AppData\Local\Temp\har962210523967885922\requests\ModalContext\18.har</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">92303bb7-c1e9-43a5-b062-8545c3739f43</property>
+</record>
+<record>
+  <date>2023-12-25T06:33:16.194768Z</date>
+  <millis>1703485996194</millis>
+  <nanos>768000</nanos>
+  <sequence>2417</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>4705</thread>
+  <message>HAR: C:\Users\huynh\AppData\Local\Temp\har8258200650225052921\requests\ModalContext\19.har</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">51b12049-8138-47aa-b99b-5ef973ec9db1</property>
+</record>
+<record>
+  <date>2023-12-25T06:33:57.076351600Z</date>
+  <millis>1703486037076</millis>
+  <nanos>351600</nanos>
+  <sequence>2418</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>4726</thread>
+  <message>HAR: C:\Users\huynh\AppData\Local\Temp\har9851762651688222792\requests\ModalContext\20.har</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">f496b92b-31e4-4d08-9497-a628ee94edb0</property>
+</record>
+<record>
+  <date>2023-12-25T06:34:19.139627500Z</date>
+  <millis>1703486059139</millis>
+  <nanos>627500</nanos>
+  <sequence>2419</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>4735</thread>
+  <message>HAR: C:\Users\huynh\AppData\Local\Temp\har10893891850741016440\requests\ModalContext\21.har</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">0e75ee87-f22e-4aad-b11c-4fc19ca40bc3</property>
+</record>
+<record>
+  <date>2023-12-25T06:34:41.777869900Z</date>
+  <millis>1703486081777</millis>
+  <nanos>869900</nanos>
+  <sequence>2420</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>4738</thread>
+  <message>HAR: C:\Users\huynh\AppData\Local\Temp\har11218407247274898663\requests\ModalContext\22.har</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">6fc83ebc-2a94-4509-b026-04cf8d5d5db0</property>
+</record>
+<record>
+  <date>2023-12-25T06:35:10.497567100Z</date>
+  <millis>1703486110497</millis>
+  <nanos>567100</nanos>
+  <sequence>2421</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>4754</thread>
+  <message>HAR: C:\Users\huynh\AppData\Local\Temp\har18432278120202350969\requests\ModalContext\23.har</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">a22536b0-6e49-4513-aef2-5d0bdecc1919</property>
+</record>
+<record>
+  <date>2023-12-25T06:36:26.305669200Z</date>
+  <millis>1703486186305</millis>
+  <nanos>669200</nanos>
+  <sequence>2422</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>4768</thread>
+  <message>HAR: C:\Users\huynh\AppData\Local\Temp\har7215304423445172725\requests\ModalContext\24.har</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">03efbcbb-5f94-45ab-83eb-720056a5efdd</property>
+</record>
+<record>
+  <date>2023-12-25T06:36:53.566572400Z</date>
+  <millis>1703486213566</millis>
+  <nanos>572400</nanos>
+  <sequence>2423</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>4778</thread>
+  <message>HAR: C:\Users\huynh\AppData\Local\Temp\har10738633407316424968\requests\ModalContext\25.har</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">9cf6b126-da05-4b7a-bcde-e8fa9b8ff286</property>
+</record>
+<record>
+  <date>2023-12-25T06:37:10.689045600Z</date>
+  <millis>1703486230689</millis>
+  <nanos>45600</nanos>
+  <sequence>2424</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>4787</thread>
+  <message>HAR: C:\Users\huynh\AppData\Local\Temp\har3233422729103167896\requests\ModalContext\26.har</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">80726142-bfbe-47ee-a87a-6bc47a57348a</property>
+</record>
+<record>
+  <date>2023-12-25T06:44:49.169346300Z</date>
+  <millis>1703486689169</millis>
+  <nanos>346300</nanos>
+  <sequence>2425</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T06:47:24.341709700Z</date>
+  <millis>1703486844341</millis>
+  <nanos>709700</nanos>
+  <sequence>2426</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T08:09:08.080927800Z</date>
+  <millis>1703491748080</millis>
+  <nanos>927800</nanos>
+  <sequence>2472</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T08:11:41.658592Z</date>
+  <millis>1703491901658</millis>
+  <nanos>592000</nanos>
+  <sequence>2519</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T08:13:09.523308400Z</date>
+  <millis>1703491989523</millis>
+  <nanos>308400</nanos>
+  <sequence>2567</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T08:13:50.078031200Z</date>
+  <millis>1703492030078</millis>
+  <nanos>31200</nanos>
+  <sequence>2615</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T08:20:06.933806600Z</date>
+  <millis>1703492406933</millis>
+  <nanos>806600</nanos>
+  <sequence>2665</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T08:22:16.308619300Z</date>
+  <millis>1703492536308</millis>
+  <nanos>619300</nanos>
+  <sequence>2718</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T08:22:48.096725200Z</date>
+  <millis>1703492568096</millis>
+  <nanos>725200</nanos>
+  <sequence>2771</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T08:25:23.165633600Z</date>
+  <millis>1703492723165</millis>
+  <nanos>633600</nanos>
+  <sequence>2824</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T08:26:48.376292100Z</date>
+  <millis>1703492808376</millis>
+  <nanos>292100</nanos>
+  <sequence>2877</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T08:27:32.579824300Z</date>
+  <millis>1703492852579</millis>
+  <nanos>824300</nanos>
+  <sequence>2933</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T08:29:31.563306600Z</date>
+  <millis>1703492971563</millis>
+  <nanos>306600</nanos>
+  <sequence>2988</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T08:31:35.781169700Z</date>
+  <millis>1703493095781</millis>
+  <nanos>169700</nanos>
+  <sequence>3044</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T08:37:35.643200600Z</date>
+  <millis>1703493455643</millis>
+  <nanos>200600</nanos>
+  <sequence>3100</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T08:39:34.216130Z</date>
+  <millis>1703493574216</millis>
+  <nanos>130000</nanos>
+  <sequence>3156</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T08:40:20.930420Z</date>
+  <millis>1703493620930</millis>
+  <nanos>420000</nanos>
+  <sequence>3212</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T08:41:03.331298200Z</date>
+  <millis>1703493663331</millis>
+  <nanos>298200</nanos>
+  <sequence>3268</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T08:42:05.459965100Z</date>
+  <millis>1703493725459</millis>
+  <nanos>965100</nanos>
+  <sequence>3324</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T08:43:18.856054600Z</date>
+  <millis>1703493798856</millis>
+  <nanos>54600</nanos>
+  <sequence>3380</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T08:50:23.597620900Z</date>
+  <millis>1703494223597</millis>
+  <nanos>620900</nanos>
+  <sequence>3436</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T08:54:11.673002400Z</date>
+  <millis>1703494451673</millis>
+  <nanos>2400</nanos>
+  <sequence>3492</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T08:54:34.645506Z</date>
+  <millis>1703494474645</millis>
+  <nanos>506000</nanos>
+  <sequence>3551</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T08:55:16.955870100Z</date>
+  <millis>1703494516955</millis>
+  <nanos>870100</nanos>
+  <sequence>3610</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-25T09:02:44.939175Z</date>
+  <millis>1703494964939</millis>
+  <nanos>175000</nanos>
+  <sequence>3669</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>

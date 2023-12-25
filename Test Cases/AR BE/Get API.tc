@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Shop Info</name>
+   <name>Get API</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>abe422dc-0565-4597-8835-078ae25d5cbf</testCaseGuid>
@@ -10,7 +10,7 @@
       <id>e7e05c6b-2a83-411c-84a1-2db72a998b06</id>
       <iterationEntity>
          <iterationType>SPECIFIC</iterationType>
-         <value>2</value>
+         <value>4</value>
       </iterationEntity>
       <testDataId>Data Files/STAG/STAGDatabase</testDataId>
    </testDataLinks>

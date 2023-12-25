@@ -24,4 +24,9 @@
       <initValue>''</initValue>
       <name>authorization</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://widget-hub-api-staging.alireviews.dev'</initValue>
+      <name>base_url_new_widget</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

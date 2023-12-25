@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="shop" time="2.149" tests="2" failures="0" errors="0">
+   <testsuite name="shop" tests="2" failures="0" errors="0" time="2.149" skipped="0" timestamp="22-12-2023T14:40:47" hostname="huynh - huynh.firegroup.local" id="Test Suites/AR BE/shop">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\huynh\\git\\AutomationARApi\\Reports\\20231222_144044\\AR BE\\shop\\20231222_144044"/>
+         <property name="logFiles" value="C:\\Users\\huynh\\git\\AutomationARApi\\Reports\\20231222_144044\\AR BE\\shop\\20231222_144044\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="huynh - huynh.firegroup.local"/>
+         <property name="hostAddress" value="192.168.59.1"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.1.0.212"/>
+         <property name="dbServerInfo" value="MySQL 8.2.0"/>
+      </properties>
+      <testcase name="Test Cases/AR BE/Shop Info" time="1.708" classname="Test Cases/AR BE/Shop Info" status="PASSED">
+         <system-out><![CDATA[22-12-2023T14:40:47 - [TEST_CASE][PASSED] - Test Cases/AR BE/Shop Info: Test Cases/AR BE/Shop Info
+
+22-12-2023T14:40:47 - [TEST_STEP][PASSED] - authResponse = sendRequestAndHandleResponse("AR BE/Auth", ["shop":raw_domain]): null
+
+22-12-2023T14:40:47 - [TEST_STEP][PASSED] - response = sendRequest(findTestObject(testObject, additionalParams)): Send request successfully
+
+22-12-2023T14:40:48 - [MESSAGE][INFO] - HAR: C:\Users\huynh\git\AutomationARApi\Reports\20231222_144044\AR BE\shop\20231222_144044\requests\main\0.har
+
+22-12-2023T14:40:48 - [MESSAGE][PASSED] - Send request successfully
+
+22-12-2023T14:40:48 - [TEST_STEP][PASSED] - return response: null
+
+22-12-2023T14:40:48 - [TEST_STEP][PASSED] - authorization = extractAuthorizationToken(authResponse): null
+
+22-12-2023T14:40:48 - [TEST_STEP][PASSED] - jsonResponse = JsonSlurper().parseText(response.getResponseBodyContent()): null
+
+22-12-2023T14:40:48 - [TEST_STEP][PASSED] - return (Bearer  + jsonResponse.data.token): null
+
+22-12-2023T14:40:48 - [TEST_STEP][PASSED] - print(authorization): null
+
+22-12-2023T14:40:48 - [TEST_STEP][PASSED] - shopInfoResponse = sendRequestAndHandleResponse(object_repo, ["authorization":authorization]): null
+
+22-12-2023T14:40:48 - [TEST_STEP][PASSED] - response = sendRequest(findTestObject(testObject, additionalParams)): Send request successfully
+
+22-12-2023T14:40:48 - [MESSAGE][INFO] - HAR: C:\Users\huynh\git\AutomationARApi\Reports\20231222_144044\AR BE\shop\20231222_144044\requests\main\1.har
+
+22-12-2023T14:40:48 - [MESSAGE][PASSED] - Send request successfully
+
+22-12-2023T14:40:48 - [TEST_STEP][PASSED] - return response: null
+
+22-12-2023T14:40:48 - [TEST_STEP][PASSED] - verifyResponseStatusCode(shopInfoResponse, response_status): Verify response status code successfully
+
+22-12-2023T14:40:48 - [MESSAGE][PASSED] - Verify response status code successfully
+
+22-12-2023T14:40:48 - [TEST_STEP][PASSED] - if (is_valid_response_schema == 1): Validate with JSON Schema successfully
+
+22-12-2023T14:40:48 - [TEST_STEP][PASSED] - validateJsonAgainstSchema(shopInfoResponse, response_schema): Validate with JSON Schema successfully
+
+22-12-2023T14:40:48 - [MESSAGE][PASSED] - Validate with JSON Schema successfully
+
+22-12-2023T14:40:48 - [TEST_STEP][PASSED] - shopInfo = JsonSlurper().parseText(shopInfoResponse.getResponseBodyContent()): null
+
+22-12-2023T14:40:48 - [TEST_STEP][PASSED] - println(shopInfo): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/AR BE/Shop Info" time="0.239" classname="Test Cases/AR BE/Shop Info" status="PASSED">
+         <system-out><![CDATA[22-12-2023T14:40:48 - [TEST_CASE][PASSED] - Test Cases/AR BE/Shop Info: Test Cases/AR BE/Shop Info
+
+22-12-2023T14:40:48 - [TEST_STEP][PASSED] - authResponse = sendRequestAndHandleResponse("AR BE/Auth", ["shop":raw_domain]): null
+
+22-12-2023T14:40:48 - [TEST_STEP][PASSED] - response = sendRequest(findTestObject(testObject, additionalParams)): Send request successfully
+
+22-12-2023T14:40:49 - [MESSAGE][INFO] - HAR: C:\Users\huynh\git\AutomationARApi\Reports\20231222_144044\AR BE\shop\20231222_144044\requests\main\2.har
+
+22-12-2023T14:40:49 - [MESSAGE][PASSED] - Send request successfully
+
+22-12-2023T14:40:49 - [TEST_STEP][PASSED] - return response: null
+
+22-12-2023T14:40:49 - [TEST_STEP][PASSED] - authorization = extractAuthorizationToken(authResponse): null
+
+22-12-2023T14:40:49 - [TEST_STEP][PASSED] - jsonResponse = JsonSlurper().parseText(response.getResponseBodyContent()): null
+
+22-12-2023T14:40:49 - [TEST_STEP][PASSED] - return (Bearer  + jsonResponse.data.token): null
+
+22-12-2023T14:40:49 - [TEST_STEP][PASSED] - print(authorization): null
+
+22-12-2023T14:40:49 - [TEST_STEP][PASSED] - shopInfoResponse = sendRequestAndHandleResponse(object_repo, ["authorization":authorization]): null
+
+22-12-2023T14:40:49 - [TEST_STEP][PASSED] - response = sendRequest(findTestObject(testObject, additionalParams)): Send request successfully
+
+22-12-2023T14:40:49 - [MESSAGE][INFO] - HAR: C:\Users\huynh\git\AutomationARApi\Reports\20231222_144044\AR BE\shop\20231222_144044\requests\main\3.har
+
+22-12-2023T14:40:49 - [MESSAGE][PASSED] - Send request successfully
+
+22-12-2023T14:40:49 - [TEST_STEP][PASSED] - return response: null
+
+22-12-2023T14:40:49 - [TEST_STEP][PASSED] - verifyResponseStatusCode(shopInfoResponse, response_status): Verify response status code successfully
+
+22-12-2023T14:40:49 - [MESSAGE][PASSED] - Verify response status code successfully
+
+22-12-2023T14:40:49 - [TEST_STEP][PASSED] - if (is_valid_response_schema == 1): Validate with JSON Schema successfully
+
+22-12-2023T14:40:49 - [TEST_STEP][PASSED] - validateJsonAgainstSchema(shopInfoResponse, response_schema): Validate with JSON Schema successfully
+
+22-12-2023T14:40:49 - [MESSAGE][PASSED] - Validate with JSON Schema successfully
+
+22-12-2023T14:40:49 - [TEST_STEP][PASSED] - shopInfo = JsonSlurper().parseText(shopInfoResponse.getResponseBodyContent()): null
+
+22-12-2023T14:40:49 - [TEST_STEP][PASSED] - println(shopInfo): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[22-12-2023T14:40:47 - [TEST_SUITE][PASSED] - shop: Test Cases/AR BE/Shop Info]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

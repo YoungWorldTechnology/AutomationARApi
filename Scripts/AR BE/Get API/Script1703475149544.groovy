@@ -34,12 +34,16 @@ print authorization
 // Send the second request
 def shopInfoResponse = sendRequestAndHandleResponse(object_repo, [('authorization') : authorization])
 
+//check response status code
 WS.verifyResponseStatusCode(shopInfoResponse, response_status)
 
+
+//check response schema
 if(is_valid_response_schema==1) {
 	WS.validateJsonAgainstSchema(shopInfoResponse, response_schema)
 }
 
+//check response payload
 if (is_response_valid==1) {
 	def response_valid_object =  new JsonSlurper().parseText(response_valid)
 	response_valid_object.each { key, value ->

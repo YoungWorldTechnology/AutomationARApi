@@ -15,13 +15,58 @@
       <guid>80e3776f-6b59-4c6b-b14a-f0f6af8a0a42</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AR BE/Shop Info</testCaseId>
+      <testCaseId>Test Cases/AR BE/Get API</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>4352df47-f496-479e-a39e-88d34834f702</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/STAG/STAGDatabase</testDataId>
+      </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>4352df47-f496-479e-a39e-88d34834f702</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>raw_domain</value>
+         <variableId>d0eb047b-926c-4ac1-804a-9346c6c795b6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4352df47-f496-479e-a39e-88d34834f702</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>object_repo</value>
+         <variableId>d3e775ce-bb60-4c8e-9cf9-f11ef5b63979</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4352df47-f496-479e-a39e-88d34834f702</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>response_status</value>
+         <variableId>95b87eee-84b7-459b-a4a4-b984e37d90d8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4352df47-f496-479e-a39e-88d34834f702</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>response_schema</value>
+         <variableId>a04c4ee8-97ee-4ec0-a482-94aebd1e33a9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4352df47-f496-479e-a39e-88d34834f702</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>is_valid_response_schema</value>
+         <variableId>abec8159-f611-4db7-af29-1f3288195bdb</variableId>
+      </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>d0eb047b-926c-4ac1-804a-9346c6c795b6</variableId>
+         <variableId>ff35fb45-6ef6-4441-bafb-161339a4b609</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>4929886b-72e9-4e00-9eaf-2d754fa2c45d</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

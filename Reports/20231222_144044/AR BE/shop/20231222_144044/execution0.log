@@ -1,0 +1,1914 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-12-22T07:40:47.077771700Z</date>
+  <millis>1703230847077</millis>
+  <nanos>771700</nanos>
+  <sequence>0</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startSuite</method>
+  <thread>1</thread>
+  <message>Start Test Suite : Test Suites/AR BE/shop</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="rerunTestFailImmediately">true</property>
+  <property name="retryCount">3</property>
+  <property name="name">shop</property>
+  <property name="description"></property>
+  <property name="id">Test Suites/AR BE/shop</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:47.087777300Z</date>
+  <millis>1703230847087</millis>
+  <nanos>777300</nanos>
+  <sequence>1</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostName = huynh - huynh.firegroup.local</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="hostName">huynh - huynh.firegroup.local</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:47.087777300Z</date>
+  <millis>1703230847087</millis>
+  <nanos>777300</nanos>
+  <sequence>2</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>os = Windows 10 64bit</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="os">Windows 10 64bit</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:47.088773Z</date>
+  <millis>1703230847088</millis>
+  <nanos>773000</nanos>
+  <sequence>3</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>hostAddress = 192.168.59.1</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="hostAddress">192.168.59.1</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:47.088773Z</date>
+  <millis>1703230847088</millis>
+  <nanos>773000</nanos>
+  <sequence>4</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>katalonVersion = 9.1.0.212</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="katalonVersion">9.1.0.212</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:47.088773Z</date>
+  <millis>1703230847088</millis>
+  <nanos>773000</nanos>
+  <sequence>5</sequence>
+  <level>RUN_DATA</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>dbServerInfo = MySQL 8.2.0</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="dbServerInfo">MySQL 8.2.0</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:47.239773Z</date>
+  <millis>1703230847239</millis>
+  <nanos>773000</nanos>
+  <sequence>6</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/AR BE/Shop Info</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="remainingRetryCount">3</property>
+  <property name="name">Test Cases/AR BE/Shop Info</property>
+  <property name="description"></property>
+  <property name="iteration"></property>
+  <property name="id">Test Cases/AR BE/Shop Info</property>
+  <property name="source">C:\Users\huynh\git\AutomationARApi\Test Cases\AR BE\Shop Info.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+  <property name="currentRetryCount">0</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:47.303775300Z</date>
+  <millis>1703230847303</millis>
+  <nanos>775300</nanos>
+  <sequence>8</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>raw_domain = huynh-ar-newwidget-stag-daily-1003.myshopify.com</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:47.304775Z</date>
+  <millis>1703230847304</millis>
+  <nanos>775000</nanos>
+  <sequence>9</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>object_repo = AR BE/Shop Info</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:47.305775400Z</date>
+  <millis>1703230847305</millis>
+  <nanos>775400</nanos>
+  <sequence>10</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>response_status = 200</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:47.305775400Z</date>
+  <millis>1703230847305</millis>
+  <nanos>775400</nanos>
+  <sequence>11</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>response_schema = {
+    &amp;quot;$schema&amp;quot;: &amp;quot;http://json-schema.org/draft-06/schema#&amp;quot;,
+    &amp;quot;$ref&amp;quot;: &amp;quot;#/definitions/Welcome3&amp;quot;,
+    &amp;quot;definitions&amp;quot;: {
+        &amp;quot;Welcome3&amp;quot;: {
+            &amp;quot;type&amp;quot;: &amp;quot;object&amp;quot;,
+            &amp;quot;additionalProperties&amp;quot;: false,
+            &amp;quot;properties&amp;quot;: {
+                &amp;quot;status&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;boolean&amp;quot;
+                },
+                &amp;quot;message&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;
+                },
+                &amp;quot;data&amp;quot;: {
+                    &amp;quot;$ref&amp;quot;: &amp;quot;#/definitions/Data&amp;quot;
+                }
+            },
+            &amp;quot;required&amp;quot;: [
+                &amp;quot;data&amp;quot;,
+                &amp;quot;message&amp;quot;,
+                &amp;quot;status&amp;quot;
+            ],
+            &amp;quot;title&amp;quot;: &amp;quot;Welcome3&amp;quot;
+        },
+        &amp;quot;Data&amp;quot;: {
+            &amp;quot;type&amp;quot;: &amp;quot;object&amp;quot;,
+            &amp;quot;additionalProperties&amp;quot;: false,
+            &amp;quot;properties&amp;quot;: {
+                &amp;quot;shopInfo&amp;quot;: {
+                    &amp;quot;$ref&amp;quot;: &amp;quot;#/definitions/ShopInfo&amp;quot;
+                },
+                &amp;quot;gotoDashboard&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;boolean&amp;quot;
+                },
+                &amp;quot;code&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;
+                },
+                &amp;quot;changePlan&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;
+                },
+                &amp;quot;statusFirstGogingDashboard&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;boolean&amp;quot;
+                },
+                &amp;quot;trialDays&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;integer&amp;quot;
+                },
+                &amp;quot;trialStatus&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;
+                },
+                &amp;quot;isShowTrialDayLeft&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;boolean&amp;quot;
+                },
+                &amp;quot;isShowOldOrderSection&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;boolean&amp;quot;
+                },
+                &amp;quot;is_remove_code&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;boolean&amp;quot;
+                },
+                &amp;quot;is_show_brand_logo&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;boolean&amp;quot;
+                },
+                &amp;quot;max_reviews_product&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;integer&amp;quot;
+                },
+                &amp;quot;email_version&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;,
+                    &amp;quot;format&amp;quot;: &amp;quot;integer&amp;quot;
+                },
+                &amp;quot;general_setting&amp;quot;: {
+                    &amp;quot;$ref&amp;quot;: &amp;quot;#/definitions/GeneralSetting&amp;quot;
+                },
+                &amp;quot;can_migrate_widget&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;boolean&amp;quot;
+                },
+                &amp;quot;is_widget_migration_processing&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;boolean&amp;quot;
+                }
+            },
+            &amp;quot;required&amp;quot;: [
+                &amp;quot;can_migrate_widget&amp;quot;,
+                &amp;quot;changePlan&amp;quot;,
+                &amp;quot;code&amp;quot;,
+                &amp;quot;email_version&amp;quot;,
+                &amp;quot;general_setting&amp;quot;,
+                &amp;quot;gotoDashboard&amp;quot;,
+                &amp;quot;isShowOldOrderSection&amp;quot;,
+                &amp;quot;isShowTrialDayLeft&amp;quot;,
+                &amp;quot;is_remove_code&amp;quot;,
+                &amp;quot;is_show_brand_logo&amp;quot;,
+                &amp;quot;is_widget_migration_processing&amp;quot;,
+                &amp;quot;max_reviews_product&amp;quot;,
+                &amp;quot;shopInfo&amp;quot;,
+                &amp;quot;statusFirstGogingDashboard&amp;quot;,
+                &amp;quot;trialDays&amp;quot;,
+                &amp;quot;trialStatus&amp;quot;
+            ],
+            &amp;quot;title&amp;quot;: &amp;quot;Data&amp;quot;
+        },
+        &amp;quot;GeneralSetting&amp;quot;: {
+            &amp;quot;type&amp;quot;: &amp;quot;object&amp;quot;,
+            &amp;quot;additionalProperties&amp;quot;: false,
+            &amp;quot;properties&amp;quot;: {
+                &amp;quot;id&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;integer&amp;quot;
+                },
+                &amp;quot;shop_id&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;
+                },
+                &amp;quot;email_name&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;
+                },
+                &amp;quot;email_address&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;
+                },
+                &amp;quot;email_reply&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;
+                },
+                &amp;quot;active_notify&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;,
+                    &amp;quot;format&amp;quot;: &amp;quot;integer&amp;quot;
+                },
+                &amp;quot;qna_email_address&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;
+                },
+                &amp;quot;qna_active_notify&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;boolean&amp;quot;
+                },
+                &amp;quot;review_rating_notify&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;array&amp;quot;,
+                    &amp;quot;items&amp;quot;: {
+                        &amp;quot;type&amp;quot;: &amp;quot;integer&amp;quot;
+                    }
+                },
+                &amp;quot;review_email_notify&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;
+                },
+                &amp;quot;timezone&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;
+                },
+                &amp;quot;language&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;
+                },
+                &amp;quot;hide_amazon_modal&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;,
+                    &amp;quot;format&amp;quot;: &amp;quot;integer&amp;quot;
+                },
+                &amp;quot;created_at&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;,
+                    &amp;quot;format&amp;quot;: &amp;quot;date-time&amp;quot;
+                },
+                &amp;quot;updated_at&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;,
+                    &amp;quot;format&amp;quot;: &amp;quot;date-time&amp;quot;
+                }
+            },
+            &amp;quot;required&amp;quot;: [
+                &amp;quot;active_notify&amp;quot;,
+                &amp;quot;created_at&amp;quot;,
+                &amp;quot;email_address&amp;quot;,
+                &amp;quot;email_name&amp;quot;,
+                &amp;quot;email_reply&amp;quot;,
+                &amp;quot;hide_amazon_modal&amp;quot;,
+                &amp;quot;id&amp;quot;,
+                &amp;quot;language&amp;quot;,
+                &amp;quot;qna_active_notify&amp;quot;,
+                &amp;quot;qna_email_address&amp;quot;,
+                &amp;quot;review_email_notify&amp;quot;,
+                &amp;quot;review_rating_notify&amp;quot;,
+                &amp;quot;shop_id&amp;quot;,
+                &amp;quot;timezone&amp;quot;,
+                &amp;quot;updated_at&amp;quot;
+            ],
+            &amp;quot;title&amp;quot;: &amp;quot;GeneralSetting&amp;quot;
+        },
+        &amp;quot;ShopInfo&amp;quot;: {
+            &amp;quot;type&amp;quot;: &amp;quot;object&amp;quot;,
+            &amp;quot;additionalProperties&amp;quot;: false,
+            &amp;quot;properties&amp;quot;: {
+                &amp;quot;shop_id&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;integer&amp;quot;
+                },
+                &amp;quot;shop_status&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;integer&amp;quot;
+                },
+                &amp;quot;shop_name&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;
+                },
+                &amp;quot;domain&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;
+                },
+                &amp;quot;shop_email&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;
+                },
+                &amp;quot;shop_phone&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;null&amp;quot;
+                },
+                &amp;quot;shop_owner&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;
+                },
+                &amp;quot;plan_name&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;
+                },
+                &amp;quot;app_plan&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;
+                },
+                &amp;quot;business_type&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;null&amp;quot;
+                },
+                &amp;quot;is_completed_obd&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;boolean&amp;quot;
+                },
+                &amp;quot;is_paused&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;boolean&amp;quot;
+                },
+                &amp;quot;is_promo_used&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;boolean&amp;quot;
+                },
+                &amp;quot;is_promo_plan_changed&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;boolean&amp;quot;
+                },
+                &amp;quot;intercom_hash&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;
+                },
+                &amp;quot;intercom_app_plan&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;
+                },
+                &amp;quot;shop_timezone&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;
+                },
+                &amp;quot;is_new_widget&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;boolean&amp;quot;
+                },
+                &amp;quot;shop_currency&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;
+                },
+                &amp;quot;shopify_scope_version&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;,
+                    &amp;quot;format&amp;quot;: &amp;quot;integer&amp;quot;
+                }
+            },
+            &amp;quot;required&amp;quot;: [
+                &amp;quot;app_plan&amp;quot;,
+                &amp;quot;business_type&amp;quot;,
+                &amp;quot;domain&amp;quot;,
+                &amp;quot;intercom_app_plan&amp;quot;,
+                &amp;quot;intercom_hash&amp;quot;,
+                &amp;quot;is_completed_obd&amp;quot;,
+                &amp;quot;is_new_widget&amp;quot;,
+                &amp;quot;is_paused&amp;quot;,
+                &amp;quot;is_promo_plan_changed&amp;quot;,
+                &amp;quot;is_promo_used&amp;quot;,
+                &amp;quot;plan_name&amp;quot;,
+                &amp;quot;shop_currency&amp;quot;,
+                &amp;quot;shop_email&amp;quot;,
+                &amp;quot;shop_id&amp;quot;,
+                &amp;quot;shop_name&amp;quot;,
+                &amp;quot;shop_owner&amp;quot;,
+                &amp;quot;shop_phone&amp;quot;,
+                &amp;quot;shop_status&amp;quot;,
+                &amp;quot;shop_timezone&amp;quot;,
+                &amp;quot;shopify_scope_version&amp;quot;
+            ],
+            &amp;quot;title&amp;quot;: &amp;quot;ShopInfo&amp;quot;
+        }
+    }
+}
+</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:47.308774400Z</date>
+  <millis>1703230847308</millis>
+  <nanos>774400</nanos>
+  <sequence>12</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>is_valid_response_schema = 1</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:47.469778Z</date>
+  <millis>1703230847469</millis>
+  <nanos>778000</nanos>
+  <sequence>13</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : authResponse = sendRequestAndHandleResponse(&amp;quot;AR BE/Auth&amp;quot;, [&amp;quot;shop&amp;quot;:raw_domain])</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">30</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:47.472775600Z</date>
+  <millis>1703230847472</millis>
+  <nanos>775600</nanos>
+  <sequence>14</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : authResponse = sendRequestAndHandleResponse(&amp;quot;AR BE/Auth&amp;quot;, [&amp;quot;shop&amp;quot;:raw_domain])</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:47.473775500Z</date>
+  <millis>1703230847473</millis>
+  <nanos>775500</nanos>
+  <sequence>15</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : response = sendRequest(findTestObject(testObject, additionalParams))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">55</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.623782500Z</date>
+  <millis>1703230848623</millis>
+  <nanos>782500</nanos>
+  <sequence>18</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>HAR: C:\Users\huynh\git\AutomationARApi\Reports\20231222_144044\AR BE\shop\20231222_144044\requests\main\0.har</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">01a72a44-b749-436c-944f-14412f9519a2</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.676785100Z</date>
+  <millis>1703230848676</millis>
+  <nanos>785100</nanos>
+  <sequence>19</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Send request successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webservice.keyword.builtin.SendRequestKeyword.sendRequest</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.678784100Z</date>
+  <millis>1703230848678</millis>
+  <nanos>784100</nanos>
+  <sequence>20</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : response = sendRequest(findTestObject(testObject, additionalParams))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.678784100Z</date>
+  <millis>1703230848678</millis>
+  <nanos>784100</nanos>
+  <sequence>21</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : return response</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">57</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.679784400Z</date>
+  <millis>1703230848679</millis>
+  <nanos>784400</nanos>
+  <sequence>22</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : return response</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.679784400Z</date>
+  <millis>1703230848679</millis>
+  <nanos>784400</nanos>
+  <sequence>23</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : authorization = extractAuthorizationToken(authResponse)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">31</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.681787Z</date>
+  <millis>1703230848681</millis>
+  <nanos>787000</nanos>
+  <sequence>24</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : authorization = extractAuthorizationToken(authResponse)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.682783600Z</date>
+  <millis>1703230848682</millis>
+  <nanos>783600</nanos>
+  <sequence>25</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : jsonResponse = JsonSlurper().parseText(response.getResponseBodyContent())</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">49</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.702785500Z</date>
+  <millis>1703230848702</millis>
+  <nanos>785500</nanos>
+  <sequence>26</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : jsonResponse = JsonSlurper().parseText(response.getResponseBodyContent())</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.702785500Z</date>
+  <millis>1703230848702</millis>
+  <nanos>785500</nanos>
+  <sequence>27</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : return (Bearer  + jsonResponse.data.token)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">50</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.713784700Z</date>
+  <millis>1703230848713</millis>
+  <nanos>784700</nanos>
+  <sequence>28</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : return (Bearer  + jsonResponse.data.token)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.713784700Z</date>
+  <millis>1703230848713</millis>
+  <nanos>784700</nanos>
+  <sequence>29</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : print(authorization)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">33</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.716784800Z</date>
+  <millis>1703230848716</millis>
+  <nanos>784800</nanos>
+  <sequence>30</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : print(authorization)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.717785Z</date>
+  <millis>1703230848717</millis>
+  <nanos>785000</nanos>
+  <sequence>31</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : shopInfoResponse = sendRequestAndHandleResponse(object_repo, [&amp;quot;authorization&amp;quot;:authorization])</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">35</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.719784400Z</date>
+  <millis>1703230848719</millis>
+  <nanos>784400</nanos>
+  <sequence>32</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : shopInfoResponse = sendRequestAndHandleResponse(object_repo, [&amp;quot;authorization&amp;quot;:authorization])</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.719784400Z</date>
+  <millis>1703230848719</millis>
+  <nanos>784400</nanos>
+  <sequence>33</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : response = sendRequest(findTestObject(testObject, additionalParams))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">55</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.851784900Z</date>
+  <millis>1703230848851</millis>
+  <nanos>784900</nanos>
+  <sequence>36</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>HAR: C:\Users\huynh\git\AutomationARApi\Reports\20231222_144044\AR BE\shop\20231222_144044\requests\main\1.har</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">6ea7e608-9877-47de-b4bb-b890216579d8</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.853784500Z</date>
+  <millis>1703230848853</millis>
+  <nanos>784500</nanos>
+  <sequence>37</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Send request successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webservice.keyword.builtin.SendRequestKeyword.sendRequest</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.854785300Z</date>
+  <millis>1703230848854</millis>
+  <nanos>785300</nanos>
+  <sequence>38</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : response = sendRequest(findTestObject(testObject, additionalParams))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.854785300Z</date>
+  <millis>1703230848854</millis>
+  <nanos>785300</nanos>
+  <sequence>39</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : return response</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">57</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.855784900Z</date>
+  <millis>1703230848855</millis>
+  <nanos>784900</nanos>
+  <sequence>40</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : return response</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.855784900Z</date>
+  <millis>1703230848855</millis>
+  <nanos>784900</nanos>
+  <sequence>41</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyResponseStatusCode(shopInfoResponse, response_status)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">37</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.862785300Z</date>
+  <millis>1703230848862</millis>
+  <nanos>785300</nanos>
+  <sequence>43</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verify response status code successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-is-assertion">true</property>
+  <property name="testops-method-name">com.kms.katalon.core.webservice.keyword.builtin.VerifyResponseStatusCodeKeyword.verifyResponseStatusCode</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.863785300Z</date>
+  <millis>1703230848863</millis>
+  <nanos>785300</nanos>
+  <sequence>44</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyResponseStatusCode(shopInfoResponse, response_status)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.863785300Z</date>
+  <millis>1703230848863</millis>
+  <nanos>785300</nanos>
+  <sequence>45</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : if (is_valid_response_schema == 1)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">39</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.864785300Z</date>
+  <millis>1703230848864</millis>
+  <nanos>785300</nanos>
+  <sequence>46</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : validateJsonAgainstSchema(shopInfoResponse, response_schema)</message>
+  <nestedLevel>2</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">40</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.922785600Z</date>
+  <millis>1703230848922</millis>
+  <nanos>785600</nanos>
+  <sequence>49</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Validate with JSON Schema successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webservice.keyword.builtin.ValidateWithJsonSchema.validateWithJsonSchema</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.923785200Z</date>
+  <millis>1703230848923</millis>
+  <nanos>785200</nanos>
+  <sequence>50</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : validateJsonAgainstSchema(shopInfoResponse, response_schema)</message>
+  <nestedLevel>2</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.924785900Z</date>
+  <millis>1703230848924</millis>
+  <nanos>785900</nanos>
+  <sequence>51</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : if (is_valid_response_schema == 1)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.924785900Z</date>
+  <millis>1703230848924</millis>
+  <nanos>785900</nanos>
+  <sequence>52</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : shopInfo = JsonSlurper().parseText(shopInfoResponse.getResponseBodyContent())</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">45</property>
+  <property name="stepIndex">7</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.925785900Z</date>
+  <millis>1703230848925</millis>
+  <nanos>785900</nanos>
+  <sequence>53</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : shopInfo = JsonSlurper().parseText(shopInfoResponse.getResponseBodyContent())</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.925785900Z</date>
+  <millis>1703230848925</millis>
+  <nanos>785900</nanos>
+  <sequence>54</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : println(shopInfo)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">47</property>
+  <property name="stepIndex">8</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.945789700Z</date>
+  <millis>1703230848945</millis>
+  <nanos>789700</nanos>
+  <sequence>55</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : println(shopInfo)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.945789700Z</date>
+  <millis>1703230848945</millis>
+  <nanos>789700</nanos>
+  <sequence>56</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/AR BE/Shop Info</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.947784700Z</date>
+  <millis>1703230848947</millis>
+  <nanos>784700</nanos>
+  <sequence>57</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/AR BE/Shop Info</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="executionBindingVariables">[
+  {
+    &quot;displayReportName&quot;: &quot;raw_domain&quot;,
+    &quot;value&quot;: &quot;huynh-ar-newwidget-stag-daily-1003.myshopify.com&quot;,
+    &quot;name&quot;: &quot;raw_domain&quot;,
+    &quot;masked&quot;: false
+  },
+  {
+    &quot;displayReportName&quot;: &quot;object_repo&quot;,
+    &quot;value&quot;: &quot;AR BE/Shop Info&quot;,
+    &quot;name&quot;: &quot;object_repo&quot;,
+    &quot;masked&quot;: false
+  },
+  {
+    &quot;displayReportName&quot;: &quot;response_status&quot;,
+    &quot;value&quot;: &quot;200&quot;,
+    &quot;name&quot;: &quot;response_status&quot;,
+    &quot;masked&quot;: false
+  },
+  {
+    &quot;displayReportName&quot;: &quot;response_schema&quot;,
+    &quot;value&quot;: &quot;{\n    \&quot;$schema\&quot;: \&quot;http://json-schema.org/draft-06/schema#\&quot;,\n    \&quot;$ref\&quot;: \&quot;#/definitions/Welcome3\&quot;,\n    \&quot;definitions\&quot;: {\n        \&quot;Welcome3\&quot;: {\n            \&quot;type\&quot;: \&quot;object\&quot;,\n            \&quot;additionalProperties\&quot;: false,\n            \&quot;properties\&quot;: {\n                \&quot;status\&quot;: {\n                    \&quot;type\&quot;: \&quot;boolean\&quot;\n                },\n                \&quot;message\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;\n                },\n                \&quot;data\&quot;: {\n                    \&quot;$ref\&quot;: \&quot;#/definitions/Data\&quot;\n                }\n            },\n            \&quot;required\&quot;: [\n                \&quot;data\&quot;,\n                \&quot;message\&quot;,\n                \&quot;status\&quot;\n            ],\n            \&quot;title\&quot;: \&quot;Welcome3\&quot;\n        },\n        \&quot;Data\&quot;: {\n            \&quot;type\&quot;: \&quot;object\&quot;,\n            \&quot;additionalProperties\&quot;: false,\n            \&quot;properties\&quot;: {\n                \&quot;shopInfo\&quot;: {\n                    \&quot;$ref\&quot;: \&quot;#/definitions/ShopInfo\&quot;\n                },\n                \&quot;gotoDashboard\&quot;: {\n                    \&quot;type\&quot;: \&quot;boolean\&quot;\n                },\n                \&quot;code\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;\n                },\n                \&quot;changePlan\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;\n                },\n                \&quot;statusFirstGogingDashboard\&quot;: {\n                    \&quot;type\&quot;: \&quot;boolean\&quot;\n                },\n                \&quot;trialDays\&quot;: {\n                    \&quot;type\&quot;: \&quot;integer\&quot;\n                },\n                \&quot;trialStatus\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;\n                },\n                \&quot;isShowTrialDayLeft\&quot;: {\n                    \&quot;type\&quot;: \&quot;boolean\&quot;\n                },\n                \&quot;isShowOldOrderSection\&quot;: {\n                    \&quot;type\&quot;: \&quot;boolean\&quot;\n                },\n                \&quot;is_remove_code\&quot;: {\n                    \&quot;type\&quot;: \&quot;boolean\&quot;\n                },\n                \&quot;is_show_brand_logo\&quot;: {\n                    \&quot;type\&quot;: \&quot;boolean\&quot;\n                },\n                \&quot;max_reviews_product\&quot;: {\n                    \&quot;type\&quot;: \&quot;integer\&quot;\n                },\n                \&quot;email_version\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;,\n                    \&quot;format\&quot;: \&quot;integer\&quot;\n                },\n                \&quot;general_setting\&quot;: {\n                    \&quot;$ref\&quot;: \&quot;#/definitions/GeneralSetting\&quot;\n                },\n                \&quot;can_migrate_widget\&quot;: {\n                    \&quot;type\&quot;: \&quot;boolean\&quot;\n                },\n                \&quot;is_widget_migration_processing\&quot;: {\n                    \&quot;type\&quot;: \&quot;boolean\&quot;\n                }\n            },\n            \&quot;required\&quot;: [\n                \&quot;can_migrate_widget\&quot;,\n                \&quot;changePlan\&quot;,\n                \&quot;code\&quot;,\n                \&quot;email_version\&quot;,\n                \&quot;general_setting\&quot;,\n                \&quot;gotoDashboard\&quot;,\n                \&quot;isShowOldOrderSection\&quot;,\n                \&quot;isShowTrialDayLeft\&quot;,\n                \&quot;is_remove_code\&quot;,\n                \&quot;is_show_brand_logo\&quot;,\n                \&quot;is_widget_migration_processing\&quot;,\n                \&quot;max_reviews_product\&quot;,\n                \&quot;shopInfo\&quot;,\n                \&quot;statusFirstGogingDashboard\&quot;,\n                \&quot;trialDays\&quot;,\n                \&quot;trialStatus\&quot;\n            ],\n            \&quot;title\&quot;: \&quot;Data\&quot;\n        },\n        \&quot;GeneralSetting\&quot;: {\n            \&quot;type\&quot;: \&quot;object\&quot;,\n            \&quot;additionalProperties\&quot;: false,\n            \&quot;properties\&quot;: {\n                \&quot;id\&quot;: {\n                    \&quot;type\&quot;: \&quot;integer\&quot;\n                },\n                \&quot;shop_id\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;\n                },\n                \&quot;email_name\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;\n                },\n                \&quot;email_address\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;\n                },\n                \&quot;email_reply\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;\n                },\n                \&quot;active_notify\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;,\n                    \&quot;format\&quot;: \&quot;integer\&quot;\n                },\n                \&quot;qna_email_address\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;\n                },\n                \&quot;qna_active_notify\&quot;: {\n                    \&quot;type\&quot;: \&quot;boolean\&quot;\n                },\n                \&quot;review_rating_notify\&quot;: {\n                    \&quot;type\&quot;: \&quot;array\&quot;,\n                    \&quot;items\&quot;: {\n                        \&quot;type\&quot;: \&quot;integer\&quot;\n                    }\n                },\n                \&quot;review_email_notify\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;\n                },\n                \&quot;timezone\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;\n                },\n                \&quot;language\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;\n                },\n                \&quot;hide_amazon_modal\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;,\n                    \&quot;format\&quot;: \&quot;integer\&quot;\n                },\n                \&quot;created_at\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;,\n                    \&quot;format\&quot;: \&quot;date-time\&quot;\n                },\n                \&quot;updated_at\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;,\n                    \&quot;format\&quot;: \&quot;date-time\&quot;\n                }\n            },\n            \&quot;required\&quot;: [\n                \&quot;active_notify\&quot;,\n                \&quot;created_at\&quot;,\n                \&quot;email_address\&quot;,\n                \&quot;email_name\&quot;,\n                \&quot;email_reply\&quot;,\n                \&quot;hide_amazon_modal\&quot;,\n                \&quot;id\&quot;,\n                \&quot;language\&quot;,\n                \&quot;qna_active_notify\&quot;,\n                \&quot;qna_email_address\&quot;,\n                \&quot;review_email_notify\&quot;,\n                \&quot;review_rating_notify\&quot;,\n                \&quot;shop_id\&quot;,\n                \&quot;timezone\&quot;,\n                \&quot;updated_at\&quot;\n            ],\n            \&quot;title\&quot;: \&quot;GeneralSetting\&quot;\n        },\n        \&quot;ShopInfo\&quot;: {\n            \&quot;type\&quot;: \&quot;object\&quot;,\n            \&quot;additionalProperties\&quot;: false,\n            \&quot;properties\&quot;: {\n                \&quot;shop_id\&quot;: {\n                    \&quot;type\&quot;: \&quot;integer\&quot;\n                },\n                \&quot;shop_status\&quot;: {\n                    \&quot;type\&quot;: \&quot;integer\&quot;\n                },\n                \&quot;shop_name\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;\n                },\n                \&quot;domain\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;\n                },\n                \&quot;shop_email\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;\n                },\n                \&quot;shop_phone\&quot;: {\n                    \&quot;type\&quot;: \&quot;null\&quot;\n                },\n                \&quot;shop_owner\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;\n                },\n                \&quot;plan_name\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;\n                },\n                \&quot;app_plan\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;\n                },\n                \&quot;business_type\&quot;: {\n                    \&quot;type\&quot;: \&quot;null\&quot;\n                },\n                \&quot;is_completed_obd\&quot;: {\n                    \&quot;type\&quot;: \&quot;boolean\&quot;\n                },\n                \&quot;is_paused\&quot;: {\n                    \&quot;type\&quot;: \&quot;boolean\&quot;\n                },\n                \&quot;is_promo_used\&quot;: {\n                    \&quot;type\&quot;: \&quot;boolean\&quot;\n                },\n                \&quot;is_promo_plan_changed\&quot;: {\n                    \&quot;type\&quot;: \&quot;boolean\&quot;\n                },\n                \&quot;intercom_hash\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;\n                },\n                \&quot;intercom_app_plan\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;\n                },\n                \&quot;shop_timezone\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;\n                },\n                \&quot;is_new_widget\&quot;: {\n                    \&quot;type\&quot;: \&quot;boolean\&quot;\n                },\n                \&quot;shop_currency\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;\n                },\n                \&quot;shopify_scope_version\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;,\n                    \&quot;format\&quot;: \&quot;integer\&quot;\n                }\n            },\n            \&quot;required\&quot;: [\n                \&quot;app_plan\&quot;,\n                \&quot;business_type\&quot;,\n                \&quot;domain\&quot;,\n                \&quot;intercom_app_plan\&quot;,\n                \&quot;intercom_hash\&quot;,\n                \&quot;is_completed_obd\&quot;,\n                \&quot;is_new_widget\&quot;,\n                \&quot;is_paused\&quot;,\n                \&quot;is_promo_plan_changed\&quot;,\n                \&quot;is_promo_used\&quot;,\n                \&quot;plan_name\&quot;,\n                \&quot;shop_currency\&quot;,\n                \&quot;shop_email\&quot;,\n                \&quot;shop_id\&quot;,\n                \&quot;shop_name\&quot;,\n                \&quot;shop_owner\&quot;,\n                \&quot;shop_phone\&quot;,\n                \&quot;shop_status\&quot;,\n                \&quot;shop_timezone\&quot;,\n                \&quot;shopify_scope_version\&quot;\n            ],\n            \&quot;title\&quot;: \&quot;ShopInfo\&quot;\n        }\n    }\n}\n&quot;,
+    &quot;name&quot;: &quot;response_schema&quot;,
+    &quot;masked&quot;: false
+  },
+  {
+    &quot;displayReportName&quot;: &quot;is_valid_respon...&quot;,
+    &quot;value&quot;: &quot;1&quot;,
+    &quot;name&quot;: &quot;is_valid_response_schema&quot;,
+    &quot;masked&quot;: false
+  }
+]</property>
+  <property name="applitools">false</property>
+  <property name="remainingRetryCount">3</property>
+  <property name="currentRetryCount">0</property>
+  <property name="keywordsUsage">{
+  &quot;web_ui&quot;: false,
+  &quot;web_service&quot;: true,
+  &quot;cucumber&quot;: false,
+  &quot;builtin&quot;: false,
+  &quot;mobile&quot;: false,
+  &quot;windows&quot;: false,
+  &quot;testng&quot;: false
+}</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.987785400Z</date>
+  <millis>1703230848987</millis>
+  <nanos>785400</nanos>
+  <sequence>58</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startTest</method>
+  <thread>1</thread>
+  <message>Start Test Case : Test Cases/AR BE/Shop Info</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="remainingRetryCount">3</property>
+  <property name="name">Test Cases/AR BE/Shop Info</property>
+  <property name="description"></property>
+  <property name="iteration"></property>
+  <property name="id">Test Cases/AR BE/Shop Info</property>
+  <property name="source">C:\Users\huynh\git\AutomationARApi\Test Cases\AR BE\Shop Info.tc</property>
+  <property name="tag"></property>
+  <property name="isOptional">false</property>
+  <property name="currentRetryCount">0</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.996786300Z</date>
+  <millis>1703230848996</millis>
+  <nanos>786300</nanos>
+  <sequence>60</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>raw_domain = huynh-ar-newwidget-stag-daily-1003.myshopify.com</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.996786300Z</date>
+  <millis>1703230848996</millis>
+  <nanos>786300</nanos>
+  <sequence>61</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>object_repo = AR BE/Pricing</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.996786300Z</date>
+  <millis>1703230848996</millis>
+  <nanos>786300</nanos>
+  <sequence>62</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>response_status = 200</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.996786300Z</date>
+  <millis>1703230848996</millis>
+  <nanos>786300</nanos>
+  <sequence>63</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>response_schema = {
+    &amp;quot;$schema&amp;quot;: &amp;quot;http://json-schema.org/draft-06/schema#&amp;quot;,
+    &amp;quot;$ref&amp;quot;: &amp;quot;#/definitions/Welcome1&amp;quot;,
+    &amp;quot;definitions&amp;quot;: {
+        &amp;quot;Welcome1&amp;quot;: {
+            &amp;quot;type&amp;quot;: &amp;quot;object&amp;quot;,
+            &amp;quot;additionalProperties&amp;quot;: false,
+            &amp;quot;properties&amp;quot;: {
+                &amp;quot;status&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;boolean&amp;quot;
+                },
+                &amp;quot;message&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;
+                },
+                &amp;quot;data&amp;quot;: {
+                    &amp;quot;$ref&amp;quot;: &amp;quot;#/definitions/Data&amp;quot;
+                }
+            },
+            &amp;quot;required&amp;quot;: [
+                &amp;quot;data&amp;quot;,
+                &amp;quot;message&amp;quot;,
+                &amp;quot;status&amp;quot;
+            ],
+            &amp;quot;title&amp;quot;: &amp;quot;Welcome1&amp;quot;
+        },
+        &amp;quot;Data&amp;quot;: {
+            &amp;quot;type&amp;quot;: &amp;quot;object&amp;quot;,
+            &amp;quot;additionalProperties&amp;quot;: false,
+            &amp;quot;properties&amp;quot;: {
+                &amp;quot;requiredCharge&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;null&amp;quot;
+                },
+                &amp;quot;isApplyDiscount&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;boolean&amp;quot;
+                },
+                &amp;quot;promoCodeErrorMessage&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;
+                },
+                &amp;quot;isCharged&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;boolean&amp;quot;
+                },
+                &amp;quot;trialStatus&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;
+                },
+                &amp;quot;showPausePlanSection&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;boolean&amp;quot;
+                },
+                &amp;quot;isFreePlanStore&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;boolean&amp;quot;
+                },
+                &amp;quot;trialDays&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;integer&amp;quot;
+                },
+                &amp;quot;isAffiliate&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;boolean&amp;quot;
+                },
+                &amp;quot;isShopTest&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;boolean&amp;quot;
+                },
+                &amp;quot;billingOn&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;
+                },
+                &amp;quot;appPlan&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;
+                },
+                &amp;quot;pricePlan&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;
+                },
+                &amp;quot;isDiscounted&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;boolean&amp;quot;
+                },
+                &amp;quot;actualPrice&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;
+                },
+                &amp;quot;showDiscountPromtionCode&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;boolean&amp;quot;
+                },
+                &amp;quot;isShowDiscountPricing&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;boolean&amp;quot;
+                },
+                &amp;quot;trialDiscountStatus&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;
+                },
+                &amp;quot;isApplyOneUsd&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;boolean&amp;quot;
+                },
+                &amp;quot;billingInterval&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;string&amp;quot;
+                },
+                &amp;quot;isForceYearlPricing&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;boolean&amp;quot;
+                },
+                &amp;quot;endCurrentCycle&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;null&amp;quot;
+                },
+                &amp;quot;startCurrentCycle&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;null&amp;quot;
+                },
+                &amp;quot;preventDownplan&amp;quot;: {
+                    &amp;quot;type&amp;quot;: &amp;quot;boolean&amp;quot;
+                }
+            },
+            &amp;quot;required&amp;quot;: [
+                &amp;quot;actualPrice&amp;quot;,
+                &amp;quot;appPlan&amp;quot;,
+                &amp;quot;billingInterval&amp;quot;,
+                &amp;quot;billingOn&amp;quot;,
+                &amp;quot;endCurrentCycle&amp;quot;,
+                &amp;quot;isAffiliate&amp;quot;,
+                &amp;quot;isApplyDiscount&amp;quot;,
+                &amp;quot;isApplyOneUsd&amp;quot;,
+                &amp;quot;isCharged&amp;quot;,
+                &amp;quot;isDiscounted&amp;quot;,
+                &amp;quot;isForceYearlPricing&amp;quot;,
+                &amp;quot;isFreePlanStore&amp;quot;,
+                &amp;quot;isShopTest&amp;quot;,
+                &amp;quot;isShowDiscountPricing&amp;quot;,
+                &amp;quot;preventDownplan&amp;quot;,
+                &amp;quot;pricePlan&amp;quot;,
+                &amp;quot;promoCodeErrorMessage&amp;quot;,
+                &amp;quot;requiredCharge&amp;quot;,
+                &amp;quot;showDiscountPromtionCode&amp;quot;,
+                &amp;quot;showPausePlanSection&amp;quot;,
+                &amp;quot;startCurrentCycle&amp;quot;,
+                &amp;quot;trialDays&amp;quot;,
+                &amp;quot;trialDiscountStatus&amp;quot;,
+                &amp;quot;trialStatus&amp;quot;
+            ],
+            &amp;quot;title&amp;quot;: &amp;quot;Data&amp;quot;
+        }
+    }
+}
+</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.997788800Z</date>
+  <millis>1703230848997</millis>
+  <nanos>788800</nanos>
+  <sequence>64</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>is_valid_response_schema = 1</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.998786200Z</date>
+  <millis>1703230848998</millis>
+  <nanos>786200</nanos>
+  <sequence>65</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : authResponse = sendRequestAndHandleResponse(&amp;quot;AR BE/Auth&amp;quot;, [&amp;quot;shop&amp;quot;:raw_domain])</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">30</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.999786300Z</date>
+  <millis>1703230848999</millis>
+  <nanos>786300</nanos>
+  <sequence>66</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : authResponse = sendRequestAndHandleResponse(&amp;quot;AR BE/Auth&amp;quot;, [&amp;quot;shop&amp;quot;:raw_domain])</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:48.999786300Z</date>
+  <millis>1703230848999</millis>
+  <nanos>786300</nanos>
+  <sequence>67</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : response = sendRequest(findTestObject(testObject, additionalParams))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">55</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.105785800Z</date>
+  <millis>1703230849105</millis>
+  <nanos>785800</nanos>
+  <sequence>70</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>HAR: C:\Users\huynh\git\AutomationARApi\Reports\20231222_144044\AR BE\shop\20231222_144044\requests\main\2.har</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">e807e0a3-efe6-43d8-9aa4-f2b41fdd4238</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.106786800Z</date>
+  <millis>1703230849106</millis>
+  <nanos>786800</nanos>
+  <sequence>71</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Send request successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webservice.keyword.builtin.SendRequestKeyword.sendRequest</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.107786300Z</date>
+  <millis>1703230849107</millis>
+  <nanos>786300</nanos>
+  <sequence>72</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : response = sendRequest(findTestObject(testObject, additionalParams))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.107786300Z</date>
+  <millis>1703230849107</millis>
+  <nanos>786300</nanos>
+  <sequence>73</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : return response</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">57</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.107786300Z</date>
+  <millis>1703230849107</millis>
+  <nanos>786300</nanos>
+  <sequence>74</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : return response</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.107786300Z</date>
+  <millis>1703230849107</millis>
+  <nanos>786300</nanos>
+  <sequence>75</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : authorization = extractAuthorizationToken(authResponse)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">31</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.107786300Z</date>
+  <millis>1703230849107</millis>
+  <nanos>786300</nanos>
+  <sequence>76</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : authorization = extractAuthorizationToken(authResponse)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.108787Z</date>
+  <millis>1703230849108</millis>
+  <nanos>787000</nanos>
+  <sequence>77</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : jsonResponse = JsonSlurper().parseText(response.getResponseBodyContent())</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">49</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.108787Z</date>
+  <millis>1703230849108</millis>
+  <nanos>787000</nanos>
+  <sequence>78</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : jsonResponse = JsonSlurper().parseText(response.getResponseBodyContent())</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.108787Z</date>
+  <millis>1703230849108</millis>
+  <nanos>787000</nanos>
+  <sequence>79</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : return (Bearer  + jsonResponse.data.token)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">50</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.108787Z</date>
+  <millis>1703230849108</millis>
+  <nanos>787000</nanos>
+  <sequence>80</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : return (Bearer  + jsonResponse.data.token)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.108787Z</date>
+  <millis>1703230849108</millis>
+  <nanos>787000</nanos>
+  <sequence>81</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : print(authorization)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">33</property>
+  <property name="stepIndex">3</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.109786500Z</date>
+  <millis>1703230849109</millis>
+  <nanos>786500</nanos>
+  <sequence>82</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : print(authorization)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.109786500Z</date>
+  <millis>1703230849109</millis>
+  <nanos>786500</nanos>
+  <sequence>83</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : shopInfoResponse = sendRequestAndHandleResponse(object_repo, [&amp;quot;authorization&amp;quot;:authorization])</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">35</property>
+  <property name="stepIndex">4</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.109786500Z</date>
+  <millis>1703230849109</millis>
+  <nanos>786500</nanos>
+  <sequence>84</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : shopInfoResponse = sendRequestAndHandleResponse(object_repo, [&amp;quot;authorization&amp;quot;:authorization])</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.109786500Z</date>
+  <millis>1703230849109</millis>
+  <nanos>786500</nanos>
+  <sequence>85</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : response = sendRequest(findTestObject(testObject, additionalParams))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">55</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.218787200Z</date>
+  <millis>1703230849218</millis>
+  <nanos>787200</nanos>
+  <sequence>88</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>HAR: C:\Users\huynh\git\AutomationARApi\Reports\20231222_144044\AR BE\shop\20231222_144044\requests\main\3.har</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="harId">27db5fce-4123-4b6d-8a7a-070ce39a36e9</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.219787100Z</date>
+  <millis>1703230849219</millis>
+  <nanos>787100</nanos>
+  <sequence>89</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Send request successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webservice.keyword.builtin.SendRequestKeyword.sendRequest</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.219787100Z</date>
+  <millis>1703230849219</millis>
+  <nanos>787100</nanos>
+  <sequence>90</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : response = sendRequest(findTestObject(testObject, additionalParams))</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.220789700Z</date>
+  <millis>1703230849220</millis>
+  <nanos>789700</nanos>
+  <sequence>91</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : return response</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">57</property>
+  <property name="stepIndex">2</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.220789700Z</date>
+  <millis>1703230849220</millis>
+  <nanos>789700</nanos>
+  <sequence>92</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : return response</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.220789700Z</date>
+  <millis>1703230849220</millis>
+  <nanos>789700</nanos>
+  <sequence>93</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : verifyResponseStatusCode(shopInfoResponse, response_status)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">37</property>
+  <property name="stepIndex">5</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.221789100Z</date>
+  <millis>1703230849221</millis>
+  <nanos>789100</nanos>
+  <sequence>95</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Verify response status code successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-is-assertion">true</property>
+  <property name="testops-method-name">com.kms.katalon.core.webservice.keyword.builtin.VerifyResponseStatusCodeKeyword.verifyResponseStatusCode</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.221789100Z</date>
+  <millis>1703230849221</millis>
+  <nanos>789100</nanos>
+  <sequence>96</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : verifyResponseStatusCode(shopInfoResponse, response_status)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.222788600Z</date>
+  <millis>1703230849222</millis>
+  <nanos>788600</nanos>
+  <sequence>97</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : if (is_valid_response_schema == 1)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">39</property>
+  <property name="stepIndex">6</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.222788600Z</date>
+  <millis>1703230849222</millis>
+  <nanos>788600</nanos>
+  <sequence>98</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : validateJsonAgainstSchema(shopInfoResponse, response_schema)</message>
+  <nestedLevel>2</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">40</property>
+  <property name="stepIndex">1</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.224787700Z</date>
+  <millis>1703230849224</millis>
+  <nanos>787700</nanos>
+  <sequence>101</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Validate with JSON Schema successfully</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="testops-method-name">com.kms.katalon.core.webservice.keyword.builtin.ValidateWithJsonSchema.validateWithJsonSchema</property>
+  <property name="testops-execution-stacktrace"></property>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.224787700Z</date>
+  <millis>1703230849224</millis>
+  <nanos>787700</nanos>
+  <sequence>102</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : validateJsonAgainstSchema(shopInfoResponse, response_schema)</message>
+  <nestedLevel>2</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.225788300Z</date>
+  <millis>1703230849225</millis>
+  <nanos>788300</nanos>
+  <sequence>103</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : if (is_valid_response_schema == 1)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.225788300Z</date>
+  <millis>1703230849225</millis>
+  <nanos>788300</nanos>
+  <sequence>104</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : shopInfo = JsonSlurper().parseText(shopInfoResponse.getResponseBodyContent())</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">45</property>
+  <property name="stepIndex">7</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.225788300Z</date>
+  <millis>1703230849225</millis>
+  <nanos>788300</nanos>
+  <sequence>105</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : shopInfo = JsonSlurper().parseText(shopInfoResponse.getResponseBodyContent())</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.225788300Z</date>
+  <millis>1703230849225</millis>
+  <nanos>788300</nanos>
+  <sequence>106</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start action : println(shopInfo)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="startLine">47</property>
+  <property name="stepIndex">8</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.225788300Z</date>
+  <millis>1703230849225</millis>
+  <nanos>788300</nanos>
+  <sequence>107</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End action : println(shopInfo)</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.226787800Z</date>
+  <millis>1703230849226</millis>
+  <nanos>787800</nanos>
+  <sequence>108</sequence>
+  <level>PASSED</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test Cases/AR BE/Shop Info</message>
+  <nestedLevel>1</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.226787800Z</date>
+  <millis>1703230849226</millis>
+  <nanos>787800</nanos>
+  <sequence>109</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endTest</method>
+  <thread>1</thread>
+  <message>End Test Case : Test Cases/AR BE/Shop Info</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+  <property name="executionBindingVariables">[
+  {
+    &quot;displayReportName&quot;: &quot;raw_domain&quot;,
+    &quot;value&quot;: &quot;huynh-ar-newwidget-stag-daily-1003.myshopify.com&quot;,
+    &quot;name&quot;: &quot;raw_domain&quot;,
+    &quot;masked&quot;: false
+  },
+  {
+    &quot;displayReportName&quot;: &quot;object_repo&quot;,
+    &quot;value&quot;: &quot;AR BE/Pricing&quot;,
+    &quot;name&quot;: &quot;object_repo&quot;,
+    &quot;masked&quot;: false
+  },
+  {
+    &quot;displayReportName&quot;: &quot;response_status&quot;,
+    &quot;value&quot;: &quot;200&quot;,
+    &quot;name&quot;: &quot;response_status&quot;,
+    &quot;masked&quot;: false
+  },
+  {
+    &quot;displayReportName&quot;: &quot;response_schema&quot;,
+    &quot;value&quot;: &quot;{\n    \&quot;$schema\&quot;: \&quot;http://json-schema.org/draft-06/schema#\&quot;,\n    \&quot;$ref\&quot;: \&quot;#/definitions/Welcome1\&quot;,\n    \&quot;definitions\&quot;: {\n        \&quot;Welcome1\&quot;: {\n            \&quot;type\&quot;: \&quot;object\&quot;,\n            \&quot;additionalProperties\&quot;: false,\n            \&quot;properties\&quot;: {\n                \&quot;status\&quot;: {\n                    \&quot;type\&quot;: \&quot;boolean\&quot;\n                },\n                \&quot;message\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;\n                },\n                \&quot;data\&quot;: {\n                    \&quot;$ref\&quot;: \&quot;#/definitions/Data\&quot;\n                }\n            },\n            \&quot;required\&quot;: [\n                \&quot;data\&quot;,\n                \&quot;message\&quot;,\n                \&quot;status\&quot;\n            ],\n            \&quot;title\&quot;: \&quot;Welcome1\&quot;\n        },\n        \&quot;Data\&quot;: {\n            \&quot;type\&quot;: \&quot;object\&quot;,\n            \&quot;additionalProperties\&quot;: false,\n            \&quot;properties\&quot;: {\n                \&quot;requiredCharge\&quot;: {\n                    \&quot;type\&quot;: \&quot;null\&quot;\n                },\n                \&quot;isApplyDiscount\&quot;: {\n                    \&quot;type\&quot;: \&quot;boolean\&quot;\n                },\n                \&quot;promoCodeErrorMessage\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;\n                },\n                \&quot;isCharged\&quot;: {\n                    \&quot;type\&quot;: \&quot;boolean\&quot;\n                },\n                \&quot;trialStatus\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;\n                },\n                \&quot;showPausePlanSection\&quot;: {\n                    \&quot;type\&quot;: \&quot;boolean\&quot;\n                },\n                \&quot;isFreePlanStore\&quot;: {\n                    \&quot;type\&quot;: \&quot;boolean\&quot;\n                },\n                \&quot;trialDays\&quot;: {\n                    \&quot;type\&quot;: \&quot;integer\&quot;\n                },\n                \&quot;isAffiliate\&quot;: {\n                    \&quot;type\&quot;: \&quot;boolean\&quot;\n                },\n                \&quot;isShopTest\&quot;: {\n                    \&quot;type\&quot;: \&quot;boolean\&quot;\n                },\n                \&quot;billingOn\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;\n                },\n                \&quot;appPlan\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;\n                },\n                \&quot;pricePlan\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;\n                },\n                \&quot;isDiscounted\&quot;: {\n                    \&quot;type\&quot;: \&quot;boolean\&quot;\n                },\n                \&quot;actualPrice\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;\n                },\n                \&quot;showDiscountPromtionCode\&quot;: {\n                    \&quot;type\&quot;: \&quot;boolean\&quot;\n                },\n                \&quot;isShowDiscountPricing\&quot;: {\n                    \&quot;type\&quot;: \&quot;boolean\&quot;\n                },\n                \&quot;trialDiscountStatus\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;\n                },\n                \&quot;isApplyOneUsd\&quot;: {\n                    \&quot;type\&quot;: \&quot;boolean\&quot;\n                },\n                \&quot;billingInterval\&quot;: {\n                    \&quot;type\&quot;: \&quot;string\&quot;\n                },\n                \&quot;isForceYearlPricing\&quot;: {\n                    \&quot;type\&quot;: \&quot;boolean\&quot;\n                },\n                \&quot;endCurrentCycle\&quot;: {\n                    \&quot;type\&quot;: \&quot;null\&quot;\n                },\n                \&quot;startCurrentCycle\&quot;: {\n                    \&quot;type\&quot;: \&quot;null\&quot;\n                },\n                \&quot;preventDownplan\&quot;: {\n                    \&quot;type\&quot;: \&quot;boolean\&quot;\n                }\n            },\n            \&quot;required\&quot;: [\n                \&quot;actualPrice\&quot;,\n                \&quot;appPlan\&quot;,\n                \&quot;billingInterval\&quot;,\n                \&quot;billingOn\&quot;,\n                \&quot;endCurrentCycle\&quot;,\n                \&quot;isAffiliate\&quot;,\n                \&quot;isApplyDiscount\&quot;,\n                \&quot;isApplyOneUsd\&quot;,\n                \&quot;isCharged\&quot;,\n                \&quot;isDiscounted\&quot;,\n                \&quot;isForceYearlPricing\&quot;,\n                \&quot;isFreePlanStore\&quot;,\n                \&quot;isShopTest\&quot;,\n                \&quot;isShowDiscountPricing\&quot;,\n                \&quot;preventDownplan\&quot;,\n                \&quot;pricePlan\&quot;,\n                \&quot;promoCodeErrorMessage\&quot;,\n                \&quot;requiredCharge\&quot;,\n                \&quot;showDiscountPromtionCode\&quot;,\n                \&quot;showPausePlanSection\&quot;,\n                \&quot;startCurrentCycle\&quot;,\n                \&quot;trialDays\&quot;,\n                \&quot;trialDiscountStatus\&quot;,\n                \&quot;trialStatus\&quot;\n            ],\n            \&quot;title\&quot;: \&quot;Data\&quot;\n        }\n    }\n}\n&quot;,
+    &quot;name&quot;: &quot;response_schema&quot;,
+    &quot;masked&quot;: false
+  },
+  {
+    &quot;displayReportName&quot;: &quot;is_valid_respon...&quot;,
+    &quot;value&quot;: &quot;1&quot;,
+    &quot;name&quot;: &quot;is_valid_response_schema&quot;,
+    &quot;masked&quot;: false
+  }
+]</property>
+  <property name="applitools">false</property>
+  <property name="remainingRetryCount">3</property>
+  <property name="currentRetryCount">0</property>
+  <property name="keywordsUsage">{
+  &quot;web_ui&quot;: false,
+  &quot;web_service&quot;: true,
+  &quot;cucumber&quot;: false,
+  &quot;builtin&quot;: false,
+  &quot;mobile&quot;: false,
+  &quot;windows&quot;: false,
+  &quot;testng&quot;: false
+}</property>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.227787800Z</date>
+  <millis>1703230849227</millis>
+  <nanos>787800</nanos>
+  <sequence>110</sequence>
+  <level>START</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>startKeyword</method>
+  <thread>1</thread>
+  <message>Start listener action : exportKatalonReports</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.364789200Z</date>
+  <millis>1703230849364</millis>
+  <nanos>789200</nanos>
+  <sequence>302</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Start generating HTML report folder at: C:\Users\huynh\git\AutomationARApi\Reports\20231222_144044\AR BE\shop\20231222_144044...</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.385788100Z</date>
+  <millis>1703230849385</millis>
+  <nanos>788100</nanos>
+  <sequence>303</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>HTML report generated</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.386788700Z</date>
+  <millis>1703230849386</millis>
+  <nanos>788700</nanos>
+  <sequence>304</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Start generating CSV report folder at: C:\Users\huynh\git\AutomationARApi\Reports\20231222_144044\AR BE\shop\20231222_144044...</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.396789300Z</date>
+  <millis>1703230849396</millis>
+  <nanos>789300</nanos>
+  <sequence>305</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>CSV report generated</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.612790600Z</date>
+  <millis>1703230849612</millis>
+  <nanos>790600</nanos>
+  <sequence>307</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endKeyword</method>
+  <thread>1</thread>
+  <message>End listener action : exportKatalonReports</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2023-12-22T07:40:49.641799Z</date>
+  <millis>1703230849641</millis>
+  <nanos>799000</nanos>
+  <sequence>308</sequence>
+  <level>END</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>endSuite</method>
+  <thread>1</thread>
+  <message>End Test Suite : Test Suites/AR BE/shop</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+</log>
